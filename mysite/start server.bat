@@ -1,1 +1,1 @@
-python manage.py runserver
+python "C:\Users\gerry\django\mysite\manage.py" runserver
